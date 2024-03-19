@@ -16,12 +16,6 @@ git clone https://github.com/yourusername/gas-properties-calculator.git
 cd gas-properties-calculator
 ```
 
-3. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Open the `gasproperties.py` file in your preferred Python IDE or text editor.
